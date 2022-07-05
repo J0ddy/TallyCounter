@@ -17,9 +17,9 @@
     <br />
     <a href="https://github.com/J0ddy/TallyCounter/blob/master/Preview.jpg?raw=true">View Demo</a>
     ·
-    <a href="https://github.com/J0ddy/TallyCounter">Report Bug</a>
+    <a href="https://github.com/J0ddy/TallyCounter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/J0ddy/TallyCounter">Request Feature</a>
+    <a href="https://github.com/J0ddy/TallyCounter/issues">Request Feature</a>
   </p>
 </p>
 
