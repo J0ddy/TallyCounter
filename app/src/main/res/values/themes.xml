@@ -2,9 +2,9 @@
     <!-- Base application theme. -->
     <style name="Theme.TallyCounter" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">@color/purple_700</item>
-        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimary">#2e2e2e</item>
+        <item name="colorPrimaryDark">#2e2e2e</item>
+        <item name="colorAccent">#8BC34A</item>
         <!-- Customize your theme here. -->
     </style>
 </resources>
